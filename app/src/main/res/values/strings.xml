@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DevHunt</string>
+    <string name="internet_status">No internet connection, Please make sure your device is connected to the internet</string>
+</resources>
